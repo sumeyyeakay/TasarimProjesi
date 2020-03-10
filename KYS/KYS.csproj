@@ -170,7 +170,9 @@
     <Content Include="Views\Shared\_Header.cshtml" />
     <Content Include="Views\Shared\_SideBar.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
-    <Content Include="Views\Home\Charts.cshtml" />
+    <Content Include="Views\Home\Haberlesme.cshtml" />
+    <Content Include="Views\Home\Izin_Talebi.cshtml" />
+    <Content Include="Views\Home\Veri_Alisverisi.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

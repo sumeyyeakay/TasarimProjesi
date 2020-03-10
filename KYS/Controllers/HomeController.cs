@@ -17,11 +17,11 @@ namespace KYS.Controllers
         {
             return View();
         }
-        public ActionResult Charts()
+        public ActionResult Haberlesme()
         {
             return View();
         }
-        public ActionResult Elements()
+        public ActionResult Veri_Alisverisi()
         {
             return View();
         }
@@ -29,7 +29,7 @@ namespace KYS.Controllers
         {
             return View();
         }
-        public ActionResult Widgets()
+        public ActionResult Izin_Talebi()
         {
             return View();
         }
