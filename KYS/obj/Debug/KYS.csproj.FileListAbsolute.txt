@@ -151,3 +151,4 @@ C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\bin\tr\System.Web.Mvc.resourc
 C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.csproj.CopyComplete
 C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.dll
 C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.pdb
+C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.csprojAssemblyReference.cache
