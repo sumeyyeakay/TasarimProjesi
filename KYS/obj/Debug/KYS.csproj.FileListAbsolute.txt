@@ -152,3 +152,7 @@ C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.csproj.CopyComp
 C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.dll
 C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.pdb
 C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\obj\Debug\KYS.csprojAssemblyReference.cache
+C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\bin\EntityFramework.dll
+C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\bin\EntityFramework.SqlServer.dll
+C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\bin\EntityFramework.xml
+C:\Users\bedir\Documents\GitHub\TasarimProjesi\KYS\bin\EntityFramework.SqlServer.xml
